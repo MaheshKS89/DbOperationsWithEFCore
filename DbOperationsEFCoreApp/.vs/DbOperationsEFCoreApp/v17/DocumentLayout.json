@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Dotnet\\DbOperationsEFCoreApp\\src\\DbOperationsWithEFCore\\DbOperationsEFCoreApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3510615C-8302-4ACA-868D-196EE45582FB}|DbOperationsEFCoreApp.csproj|d:\\dotnet\\dboperationsefcoreapp\\src\\dboperationswithefcore\\dboperationsefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3510615C-8302-4ACA-868D-196EE45582FB}|DbOperationsEFCoreApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3510615C-8302-4ACA-868D-196EE45582FB}|DbOperationsEFCoreApp.csproj|d:\\dotnet\\dboperationsefcoreapp\\src\\dboperationswithefcore\\dboperationsefcoreapp\\data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3510615C-8302-4ACA-868D-196EE45582FB}|DbOperationsEFCoreApp.csproj|solutionrelative:data\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3510615C-8302-4ACA-868D-196EE45582FB}|DbOperationsEFCoreApp.csproj|d:\\dotnet\\dboperationsefcoreapp\\src\\dboperationswithefcore\\dboperationsefcoreapp\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3510615C-8302-4ACA-868D-196EE45582FB}|DbOperationsEFCoreApp.csproj|solutionrelative:data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3510615C-8302-4ACA-868D-196EE45582FB}|DbOperationsEFCoreApp.csproj|d:\\dotnet\\dboperationsefcoreapp\\src\\dboperationswithefcore\\dboperationsefcoreapp\\data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3510615C-8302-4ACA-868D-196EE45582FB}|DbOperationsEFCoreApp.csproj|solutionrelative:data\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3510615C-8302-4ACA-868D-196EE45582FB}|DbOperationsEFCoreApp.csproj|d:\\dotnet\\dboperationsefcoreapp\\src\\dboperationswithefcore\\dboperationsefcoreapp\\data\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3510615C-8302-4ACA-868D-196EE45582FB}|DbOperationsEFCoreApp.csproj|solutionrelative:data\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookPrice.cs",
+              "DocumentMoniker": "D:\\Dotnet\\DbOperationsEFCoreApp\\src\\DbOperationsWithEFCore\\DbOperationsEFCoreApp\\Data\\BookPrice.cs",
+              "RelativeDocumentMoniker": "Data\\BookPrice.cs",
+              "ToolTip": "D:\\Dotnet\\DbOperationsEFCoreApp\\src\\DbOperationsWithEFCore\\DbOperationsEFCoreApp\\Data\\BookPrice.cs",
+              "RelativeToolTip": "Data\\BookPrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:06:15.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\Dotnet\\DbOperationsEFCoreApp\\src\\DbOperationsWithEFCore\\DbOperationsEFCoreApp\\Data\\Currency.cs",
+              "RelativeDocumentMoniker": "Data\\Currency.cs",
+              "ToolTip": "D:\\Dotnet\\DbOperationsEFCoreApp\\src\\DbOperationsWithEFCore\\DbOperationsEFCoreApp\\Data\\Currency.cs",
+              "RelativeToolTip": "Data\\Currency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:04:31.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Language.cs",
+              "DocumentMoniker": "D:\\Dotnet\\DbOperationsEFCoreApp\\src\\DbOperationsWithEFCore\\DbOperationsEFCoreApp\\Data\\Language.cs",
+              "RelativeDocumentMoniker": "Data\\Language.cs",
+              "ToolTip": "D:\\Dotnet\\DbOperationsEFCoreApp\\src\\DbOperationsWithEFCore\\DbOperationsEFCoreApp\\Data\\Language.cs",
+              "RelativeToolTip": "Data\\Language.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:45:08.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Dotnet\\DbOperationsEFCoreApp\\src\\DbOperationsWithEFCore\\DbOperationsEFCoreApp\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "Data\\Book.cs",
+              "ToolTip": "D:\\Dotnet\\DbOperationsEFCoreApp\\src\\DbOperationsWithEFCore\\DbOperationsEFCoreApp\\Data\\Book.cs",
+              "RelativeToolTip": "Data\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:38:58.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Dotnet\\DbOperationsEFCoreApp\\src\\DbOperationsWithEFCore\\DbOperationsEFCoreApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Dotnet\\DbOperationsEFCoreApp\\src\\DbOperationsWithEFCore\\DbOperationsEFCoreApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:36:12.991Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
